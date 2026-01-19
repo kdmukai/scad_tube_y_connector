@@ -10,7 +10,7 @@ The file's current settings join two 18mm tubes to an outlet that seats directly
 
 ## Files
 * Customizable SCAD file: [y_connector.scad](y_connector.scad)
-* Orca / Bambu Studio 3MF file: [y_connector.3mf](y_connector.3mf)
+* As-is 3MF file: [y_connector.3mf](y_connector.3mf)
 
 
 ## Customization
@@ -20,12 +20,13 @@ You can view and customize this design online without installing OpenSCAD:
 
 <img src="img/ochafik_customizer.png">
 
-1. Copy the contents of `y_connector.scad`
+1. Copy the contents of [y_connector.scad](y_connector.scad)
 2. Paste into the editor at [ochafik.com/openscad2](https://ochafik.com/openscad2)
-3. Click on the "Customize" button at the top of the page to customize the parameters as needed
+3. Click on the "Customize" button at the top of the page to edit the parameters as needed
 4. Preview the updated design in real-time
 5. Click "Render"
-6. The button will then change to "Download STL".
+6. The button will then change to "Download STL"
+7. Import the STL into your slicer
 
 
 ### Variables
