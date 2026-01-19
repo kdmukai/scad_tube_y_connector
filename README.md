@@ -5,6 +5,8 @@ This OpenSCAD design creates a 3d-printable Y-connector that can be easily custo
 
 The file's current settings join two 18mm tubes to an outlet that seats directly into a vertical 3/4" PVC pipe with no adapter. This was designed for simple drainage from a furnace humidifier. It's not meant to be watertight against backup flow.
 
+<img src="img/y_connector_installation.jpg">
+
 
 ## Files
 * Customizable SCAD file: [y_connector.scad](y_connector.scad)
